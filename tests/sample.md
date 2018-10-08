@@ -1,4 +1,4 @@
-# Some PantUML sample
+# Some PlantUML sample
 
 ```plantuml
 Alice -> Bob: Authentication Request
